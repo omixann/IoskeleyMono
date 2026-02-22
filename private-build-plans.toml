@@ -1,5 +1,5 @@
 [buildPlans.IoskeleyMono]
-family = "Ioskeley Mono"
+family = "Ioskeley Mono (omixann)"
 spacing = "normal"
 serifs = "sans"
 noCvSs = true
@@ -72,26 +72,26 @@ diacritic-dot = "square"
 punctuation-dot = "square"
 braille-dot = "square"
 tilde = "low"
-asterisk = "penta-mid"
+asterisk = "penta-low"
 underscore = "high"
 caret = "medium"
 ascii-grave = "straight"
 ascii-single-quote = "straight"
 paren = "flat-arc"
-brace = "curly-flat-boundary"
+brace = "curly"
 guillemet = "straight"
-number-sign = "slanted"
-ampersand = "closed"
-at = "fourfold"
+number-sign = "upright"
+ampersand = "et-tailed"
+at = "threefold"
 dollar = "through"
 cent = "through-cap"
-percent = "rings-continuous-slash"
+percent = "rings-continuous-slash-also-connected"
 bar = "natural-slope"
 question = "corner"
 pilcrow = "high"
 micro-sign = "toothed-serifless"
 decorative-angle-brackets = "middle"
-lig-ltgteq = "slanted"
+lig-ltgteq = "flat"
 lig-neq = "slightly-slanted"
 lig-equal-chain = "without-notch"
 lig-hyphen-chain = "without-notch"
@@ -211,7 +211,7 @@ accentClearance = 76
 accentHeight = 162
 accentStackOffset = 208
 
-leading = 1250
+leading = 2000
 parenSize = 860
 dotSize = 'blend(weight, [100, 110], [400, 125], [900, 150])'
 periodSize = 140
@@ -231,7 +231,7 @@ smallArchDepth = 157
 # ============================================================
 
 [buildPlans.IoskeleyMonoNL]
-family = "Ioskeley Mono NL"
+family = "Ioskeley Mono NL (omixann)"
 spacing = "normal"
 serifs = "sans"
 noCvSs = true
@@ -276,7 +276,7 @@ smallArchDepth = 157
 # ============================================================
 
 [buildPlans.IoskeleyMonoTerm]
-family = "Ioskeley Mono Term"
+family = "Ioskeley Mono Term (omixann)"
 spacing = "term"
 serifs = "sans"
 noCvSs = true
